@@ -35,7 +35,6 @@ from {...} import *
 
 ### PCAP-31-03 1.5 – Create and use user-defined modules and packages
 
-- idea and rationale;
 - the **pycache** directory
   references:
   https://towardsdatascience.com/pycache-python-991424aabad8
@@ -46,6 +45,8 @@ from {...} import *
 
 - public and private variables
 
-- the **init**.py file
+- the \_\_init\_\_.py file
+  
 - searching for/through modules/packages
+  
 - nested packages vs. directory trees
