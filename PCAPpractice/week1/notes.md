@@ -35,18 +35,17 @@ from {...} import *
 
 ### PCAP-31-03 1.5 – Create and use user-defined modules and packages
 
-- the **pycache** directory
+- the \_\_pycache\_\_ directory
   references:
   https://towardsdatascience.com/pycache-python-991424aabad8
 
-- the **name** variable
+- the \_\_name\_\_ variable
   references:
+
   https://www.enthought.com/blog/whats-in-a-__name__/#:~:text=Each%20time%20a%20Python%20module,(or%20package%20hierarchy%20name)
 
 - public and private variables
 
 - the \_\_init\_\_.py file
-  
 - searching for/through modules/packages
-  
 - nested packages vs. directory trees
