@@ -17,7 +17,6 @@ import {...} as {...}
 
 from {...} import *
 
-# nested modules
 ```
 
 `dir(), sys.path`
