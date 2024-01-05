@@ -33,6 +33,8 @@ from {...} import *
 
 `functions: platform(), machine(), processor(), system(), version(), python_implementation(), python_version_tuple()`
 
+https://www.geeksforgeeks.org/platform-module-in-python/
+
 ### PCAP-31-03 1.5 – Create and use user-defined modules and packages
 
 - the \_\_pycache\_\_ directory
@@ -46,6 +48,12 @@ from {...} import *
 
 - public and private variables
 
+https://www.geeksforgeeks.org/private-variables-python/
+
 - the \_\_init\_\_.py file
+
+https://betterstack.com/community/questions/what-is-init-py-for/
+
 - searching for/through modules/packages
+
 - nested packages vs. directory trees
