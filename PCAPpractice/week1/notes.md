@@ -37,20 +37,19 @@ https://www.geeksforgeeks.org/platform-module-in-python/
 
 ### PCAP-31-03 1.5 – Create and use user-defined modules and packages
 
-- the \_\_pycache\_\_ directory
-  references:
-  https://towardsdatascience.com/pycache-python-991424aabad8
+- [the \_\_pycache\_\_ directory
+  references:](https://towardsdatascience.com/pycache-python-991424aabad8)
 
-- the \_\_name\_\_ variable
-  references:
+- [the \_\_name\_\_ variable
+  references:](<https://www.enthought.com/blog/whats-in-a-__name__/#:~:text=Each%20time%20a%20Python%20module,(or%20package%20hierarchy%20name)>)
 
-  https://www.enthought.com/blog/whats-in-a-__name__/#:~:text=Each%20time%20a%20Python%20module,(or%20package%20hierarchy%20name)
+- [public and private variables](https://www.geeksforgeeks.org/private-variables-python/)
 
-- public and private variables
+- [the \_\_init\_\_.py file](https://betterstack.com/community/questions/what-is-init-py-for/)
 
-https://www.geeksforgeeks.org/private-variables-python/
+- searching for/through modules/packages
 
-- the \_\_init\_\_.py file
+- nested packages vs. directory trees
 
 https://betterstack.com/community/questions/what-is-init-py-for/
 
