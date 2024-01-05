@@ -50,9 +50,3 @@ https://www.geeksforgeeks.org/platform-module-in-python/
 - searching for/through modules/packages
 
 - nested packages vs. directory trees
-
-https://betterstack.com/community/questions/what-is-init-py-for/
-
-- searching for/through modules/packages
-
-- nested packages vs. directory trees
